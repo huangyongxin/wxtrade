@@ -326,4 +326,4 @@ require_once './install_qcloud_sdk.php';
  *
  * And away we go...
  */
-require_once BASEPATH.'core/CodeIgniter.php';
+require_once BASEPATH . 'core/CodeIgniter.php';

@@ -6,6 +6,8 @@ use QCloud_WeApp_SDK\Constants as Constants;
 
 
 class Manager extends CI_Controller {
+
+
     public function login() {
        $this->load->view('manager/login');
        
